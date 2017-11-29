@@ -1,2 +1,3 @@
 # hello-world
-hi
+Hello Sugar Labs,
+Favian Sun
